@@ -1,0 +1,10 @@
+%% coding: utf-8
+[{release,"processquest","1.0.0","10.1",
+          [{kernel,"6.1","rel/lib/kernel-6.1"},
+           {stdlib,"3.6","rel/lib/stdlib-3.6"},
+           {sasl,"3.2.1","rel/lib/sasl-3.2.1"},
+           {crypto,"4.3.3","rel/lib/crypto-4.3.3"},
+           {regis,"1.0.0","rel/lib/regis-1.0.0"},
+           {processquest,"1.0.0","rel/lib/processquest-1.0.0"},
+           {sockserv,"1.0.0","rel/lib/sockserv-1.0.0"}],
+          permanent}].

@@ -1,0 +1,12 @@
+%% coding: utf-8
+%% rel generated at {2019,6,22} {22,55,38}
+{release,{"processquest","1.0.0"},
+         {erts,"10.1"},
+         [{kernel,"6.1"},
+          {stdlib,"3.6"},
+          {sasl,"3.2.1"},
+          {crypto,"4.3.3"},
+          {regis,"1.0.0"},
+          {processquest,"1.0.0"},
+          {sockserv,"1.0.0"}]}.
+
